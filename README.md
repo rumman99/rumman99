@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **React JS, Next JS, Node JS, Express JS, MongoDB**
 
-- 🌱 I’m currently learning **Python, Django, Golang**
+- 🌱 I’m currently learning **Python, Django**
 
 - 💬 Ask me about **React JS, Next JS, Node JS, Express JS, MongoDB**
 

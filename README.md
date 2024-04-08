@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumman99&&theme=tokyonight" alt="rumman99" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumman99&theme=default" alt="rumman99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumman99&theme=tokyonight" alt="rumman99" /></a> </p>

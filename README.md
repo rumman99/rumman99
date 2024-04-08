@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on **React JS, Next JS, Node JS, Express JS, MongoDB**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Python, Django, Flask**
 
 - 💬 Ask me about **React JS, Next JS, Node JS, Express JS, MongoDB**
 
 - 📫 How to reach me **tasnimrumman@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Strength **Fast Learner, Adaptable, Flexible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

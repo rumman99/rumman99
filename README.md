@@ -7,7 +7,7 @@
 <h3 align="center">A Enthusiastic Software Engineer from 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/deq61tl-e3fdc081-e846-4324-b4f0-b400e8881df9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGVxNjF0bC1lM2ZkYzA4MS1lODQ2LTQzMjQtYjRmMC1iNDAwZTg4ODFkZjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kMT5bD4NQ1RszoE7f6_2iEoGNYBFQF4MrsTYgE-TB4k">
 
-/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumman99&label=Profile%20views&color=0e75b6&style=flat" alt="rumman99" /> </p>*/
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumman99&label=Profile%20views&color=0e75b6&style=flat" alt="rumman99" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumman99" alt="rumman99" /></a> </p>
 

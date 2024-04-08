@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasnim Alam Rumman</h1>
-<h3 align="center">A Enthusiastic Software Engineer from <img src="https://cdn.pixabay.com/photo/2013/07/13/14/14/bangladesh-162238_1280.png" width="100" height="100"/> alt="rumman99" /></h3>
+<h3 align="center">A Enthusiastic Software Engineer from <img src="https://cdn.pixabay.com/photo/2013/07/13/14/14/bangladesh-162238_1280.png" width="20" height="10" alt="rumman99" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumman99&label=Profile%20views&color=0e75b6&style=flat" alt="rumman99" /> </p>
 

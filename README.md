@@ -4,7 +4,7 @@
   </a>
   
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0CF728&random=false&width=435&lines=Welcome+To+Rumman's+Github;Nice+To+Meet+You!&center=true&size=30" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+To+Rumman's+Github!+%F0%9F%91%8B;Nice+To+mMeet+You!&center=true&size=30" alt="Typing SVG" /></a>
 </h1>
   
 </p>

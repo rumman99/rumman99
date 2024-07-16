@@ -19,9 +19,9 @@
 
 - 🔭 I’m currently working on **React JS, Next JS, Node JS, Express JS, MongoDB**
 
-- 🌱 I’m currently learning **Python, Django, Flask**
+- 🌱 I’m currently learning **Angular JS, Ionic, Cross-Platform Application**
 
-- 💬 Ask me about **React JS, Next JS, Node JS, Express JS, MongoDB**
+- 💬 Ask me about **React JS, Next JS, Angular JS, Ionic, Node JS, Express JS, MongoDB, FireBase**
 
 - 📫 How to reach me **tasnimrumman@gmail.com**
 

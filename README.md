@@ -17,11 +17,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumman99&label=Profile%20views&color=0e75b6&style=flat" alt="rumman99" /> </p>
 
 
-- 🔭 I’m currently working on **React JS, Next JS, Node JS, Express JS, MongoDB**
+- 🔭 I’m currently working on **TypeScript, Angular, React JS, GCP, Node JS, MongoDB, Firebase**
 
-- 🌱 I’m currently learning **Angular JS, Ionic, Cross-Platform Application**
-
-- 💬 Ask me about **React JS, Next JS, Angular JS, Ionic, Node JS, Express JS, MongoDB, FireBase**
+- 💬 Ask me about **TypeScript, Java, Angular, React JS, Next JS, Ionic, GCP, Node JS, Express JS, MongoDB, FireBase**
 
 - 📫 How to reach me **tasnimrumman@gmail.com**
 
